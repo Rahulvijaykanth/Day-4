@@ -1,0 +1,25 @@
+.text{
+    color: darkorange;
+}
+
+.text2{
+    width: fit-content;
+    color: rgb(71, 29, 110);
+    margin: 5px 10px 10px 20px;
+    padding: 20px 10px 10px 5px;
+    border: 5px solid rgb(27, 34, 123);
+    border-radius: 20px;
+}
+
+.text3{
+    color: dodgerblue;
+}
+
+.text4{
+    width: fit-content;
+    color: rgb(71, 29, 110);
+    margin: 5px 10px 10px 20px;
+    padding: 20px 10px 10px 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+}
